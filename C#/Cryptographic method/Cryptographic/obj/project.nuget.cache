@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JDBPaDwWulzp9xAhKm3pFxgmIg2Y/F81hB6BwGci5jJp6EewcXsTe5dx3e4ctRGGYLJnbPbv/42O0EexZtMzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\27607\\Desktop\\Uni\\Second year\\PRG521\\Cryptographic\\Cryptographic\\Cryptographic\\Cryptographic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\27607\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
