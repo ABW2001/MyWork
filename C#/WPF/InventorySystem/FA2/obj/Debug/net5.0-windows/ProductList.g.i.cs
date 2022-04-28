@@ -141,7 +141,7 @@ namespace FA2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FA2;component/productlist.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FA2;V1.0.0.0;component/productlist.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ProductList.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

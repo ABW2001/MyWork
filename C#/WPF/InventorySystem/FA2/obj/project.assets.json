@@ -2470,11 +2470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\27607\\Desktop\\Uni\\Second year\\PRG521\\Class Work\\FA2\\FA2\\FA2.csproj",
+      "projectUniqueName": "C:\\Users\\27607\\Desktop\\MyWork\\C#\\WPF\\InventorySystem\\FA2\\FA2.csproj",
       "projectName": "FA2",
-      "projectPath": "C:\\Users\\27607\\Desktop\\Uni\\Second year\\PRG521\\Class Work\\FA2\\FA2\\FA2.csproj",
+      "projectPath": "C:\\Users\\27607\\Desktop\\MyWork\\C#\\WPF\\InventorySystem\\FA2\\FA2.csproj",
       "packagesPath": "C:\\Users\\27607\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\27607\\Desktop\\Uni\\Second year\\PRG521\\Class Work\\FA2\\FA2\\obj\\",
+      "outputPath": "C:\\Users\\27607\\Desktop\\MyWork\\C#\\WPF\\InventorySystem\\FA2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\27607\\AppData\\Roaming\\NuGet\\NuGet.Config",

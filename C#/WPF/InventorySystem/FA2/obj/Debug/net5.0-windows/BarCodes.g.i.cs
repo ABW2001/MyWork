@@ -77,7 +77,7 @@ namespace FA2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FA2;component/barcodes.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FA2;V1.0.0.0;component/barcodes.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BarCodes.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

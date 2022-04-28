@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmnLrbCIhHIG8TLJKm7SmPflEpdcScvp3qrEHLz+vd6UIacaueCDF+WFcI77bs2azXcuY9GUi/ETFBSKtIgfTQ==",
+  "dgSpecHash": "Wk6BIJX9MLLdAHpDW/6kmwex1/xMuxi1wJPOeYcsOHwuJM7c4RVv8zfIL1mrkVs97unYYK4o2QW0Hq+mO5P2gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\27607\\Desktop\\Uni\\Second year\\PRG521\\Class Work\\FA2\\FA2\\FA2.csproj",
+  "projectFilePath": "C:\\Users\\27607\\Desktop\\MyWork\\C#\\WPF\\InventorySystem\\FA2\\FA2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\27607\\.nuget\\packages\\microsoft.build.framework\\17.1.0\\microsoft.build.framework.17.1.0.nupkg.sha512",
     "C:\\Users\\27607\\.nuget\\packages\\microsoft.build.tasks.core\\17.1.0\\microsoft.build.tasks.core.17.1.0.nupkg.sha512",
